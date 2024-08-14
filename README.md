@@ -1,10 +1,3 @@
-# CMPT276 - Group 17
-
-## Commit ID:
-- Ridham Sharma => rsa188
-- Colton Blackwell => ccb11
-- Jonny => jmb30
-
 ## How to Run the Game
   To run the game, you will need to have Maven, JAR, and Oracle JDK 21 or higher installed.
   
