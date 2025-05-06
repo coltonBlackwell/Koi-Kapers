@@ -2,21 +2,39 @@
 
 ![Gameplay](gameplay.png)
 
+<p align="center"><em>Snapshot of Koi Kapers gameplay</em></p>
 
-## How to Run the Game
-  To run the game, you will need to have Maven, JAR, and Oracle JDK 21 or higher installed.
-  
-  In your terminal, cd into the root folder of the project, which is named `CMPT276F23_group17`, and run the following command.
-  ### `java -jar my-app/target/koi-kapers-1.0-SNAPSHOT.jar`
-  ----
-  Alternatively, you can cd into the target directory, `CMPT276F23_group17\my-app\target`, where the JAR file, `koi-kapers-1.0-SNAPSHOT`, is located and run the JAR file or the following command.
-  ### ```java -jar koi-kapers-1.0-SNAPSHOT.jar```
-  ----
-  Another way to run the game is to open your IDE, open ```Main.java```, and click the run file button.
+## Overview
+
+## Project Structure
+
+## Getting Started
+
+### Prerequisites
+To run the game, you will need to have Maven, JAR, and Oracle JDK 21 or higher installed.
+### Installation
+
+### Running the Application
+
+## Running Tests
+
+## Technologies Used
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ## How to Build the Game
   In your terminal, cd into the root folder of the project, which is named `CMPT276F23_group17`. Then run the following command to create the generate the artifact.
    ### `mvn jar:jar -f my-app/pom.xml`
+   
+## How to Run the Game
+  To run the game, you will need to have Maven, JAR, and Oracle JDK 21 or higher installed.
+  
+  In your terminal, cd into the root folder of the project, which is named `Koi-Kapers`, and run the following command.
+  ### `java -jar my-app/target/koi-kapers-1.0-SNAPSHOT.jar`
+  ----
+  Another way to run the game is to open your IDE, open ```Main.java```, and click the run file button.
 
 ## How to Test the Game
   In your IDE, open one of the test classes in the test directory and click the run file button to run the test cases.
@@ -33,8 +51,3 @@
   ### ```mvn javadoc:javadoc```
   make sure you are in the `CMPT276F23_group17\my-app` directory when running the above command.
    ----
-  
-  
-# How to Run
-mvn jar:jar -f my-app/pom.xml
-java -jar my-app/target/koi-kapers-1.0-SNAPSHOT.jar
