@@ -65,6 +65,7 @@ To run the tests in your IDE:
 - Maven 
 - JAR
 - Oracle JDK
+- Jacoco
 
 ## Additional Resources
 
