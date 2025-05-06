@@ -1,6 +1,6 @@
 # Koi Kapers Maze Game 🐟
 
-![Gameplay](gameplay.png)
+![Gameplay](images/gameplay.png)
 
 <p align="center"><em>Snapshot of Koi Kapers gameplay</em></p>
 
