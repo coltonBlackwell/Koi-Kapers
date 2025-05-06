@@ -1,4 +1,12 @@
 -------------------------------------------------------------------------------
 Test set: com.mycompany.app.RacoonTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.841 s - in com.mycompany.app.RacoonTest
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.506 s <<< FAILURE! - in com.mycompany.app.RacoonTest
+AssertRacconSearchPath(com.mycompany.app.RacoonTest)  Time elapsed: 0.02 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.mycompany.app.RacoonTest.AssertRacconSearchPath(RacoonTest.java:45)
+
+AssertRaccoonDirection(com.mycompany.app.RacoonTest)  Time elapsed: 0.023 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.mycompany.app.RacoonTest.AssertRaccoonDirection(RacoonTest.java:36)
+

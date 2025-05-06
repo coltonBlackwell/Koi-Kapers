@@ -1,3 +1,8 @@
+# Koi Kapers Maze Game 🐟
+
+![Gameplay](gameplay.png)
+
+
 ## How to Run the Game
   To run the game, you will need to have Maven, JAR, and Oracle JDK 21 or higher installed.
   
@@ -30,3 +35,6 @@
    ----
   
   
+# How to Run
+mvn jar:jar -f my-app/pom.xml
+java -jar my-app/target/koi-kapers-1.0-SNAPSHOT.jar
