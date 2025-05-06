@@ -70,10 +70,12 @@ To run the tests in your IDE:
 
 - **Design Documents**: Refer to the files in the [Design/](Design) directory for UML diagrams, use cases, and UI mockups. 
 - **Project Reports & Reviews:** See the [Documents/](Documents) folder for code reviews and formal reports. 
-- **JavaDocs:** To generate the API documentation, navigate to [my-app](my-app) and run: 
-```sh 
-mvn javadoc:javadoc
-```
+- **JavaDocs:** To generate the API documentation, navigate to [my-app](my-app) and run:
+  
+  ```sh 
+  mvn javadoc:javadoc
+  ```
+  
 Then view the generated documentation in [my-app/target/site/apidocs/index.html](my-app/target/site/apidocs/index.html).
 - **Game Demo:** Check out the [game demo video](https://youtu.be/cZQ1i3oe57I)!
 
